@@ -1,6 +1,10 @@
 import { Link } from 'react-router-dom';
 import './styles.css';
 
+type Props = {
+	movie
+}
+
 function Form() {
   const movie = {
     id: 1,
