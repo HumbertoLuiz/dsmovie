@@ -4,7 +4,7 @@
 
 * Este é um projeto feito seguindo o Bootcamp Semana Spring React da DevSuperior.
 
-## Foram construidos os seguintes objetivos neste projeto acadêmico: 💻
+## Foram construidos os seguintes objetivos neste projeto: 💻
 
 * Construção do Back-End com utilização de Spring Rest API;
 * Construção da Interface Visual (Front-End) com React;
@@ -18,7 +18,7 @@
   * https://my-dsmovie.netlify.app/
   
   ```
-## Tecnologias utilizadas para a execução do projeto 🛠
+## Tecnologias utilizadas para a construção do projeto 🛠
 
 * Spring Tools Suite 4
 * Visual Studio Code
@@ -32,6 +32,8 @@
 * Bootstrap
 * Typescript
 * Postman
+* Heroku
+* Netlify
 
 Humberto Luiz 
 <div>
